@@ -9,7 +9,7 @@ This Amazon clone project is my exploration into front-end web development. It's
 
 Tecnologies used:
 
-HTML5
-CSS3
-CSS Animations
+HTML, 
+CSS, 
+CSS Animations, 
 Javascript
