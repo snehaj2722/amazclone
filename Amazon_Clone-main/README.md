@@ -1,15 +1,16 @@
 # Link
 
-https://amazon-clone-less-spend-smile-more.netlify.app/
+https://amazonclone-snehajain.netlify.app/
 
 # Amazon_Clone
 
-🛍️ Welcome to My Amazon Clone Project! 🚀
+ Welcome to My Amazon Clone Project!
 
-In this repository, you'll find my rendition of an Amazon clone created using HTML, CSS, and JavaScript. In this project, I got to explore front-end web development and replicate Amazon's core functions and design elements. From structuring the layout with HTML to adding interactive features with JavaScript 💻🌟
+This Amazon clone project is my exploration into front-end web development. It's an attempt to replicate the familiar functionalities and design elements of the Amazon website. From structuring the layout with HTML to adding interactive features with JavaScript, this project encompasses various aspects of front-end development💻🌟
 
 
-# Tecnologies
+# Tecnologies used
+
 * HTML5
 * CSS3
 * CSS Animations
